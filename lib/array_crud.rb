@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  [hp_characters =("Harry", "Hermione", "Ron", "Malfoy")]
+  [hp_characters "Harry", "Hermione", "Ron", "Malfoy"]
   hp_characters << "Dumbledore"
   p hp_characters
 end
