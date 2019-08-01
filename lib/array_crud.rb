@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def hp_characters
-  hp_characters ["Harry","Hermione","Ron","Malfoy"]
+def create_an_array
+  create_an_array ["Harry","Hermione","Ron","Malfoy"]
 end
 
 def add_element_to_end_of_array(array, element)
