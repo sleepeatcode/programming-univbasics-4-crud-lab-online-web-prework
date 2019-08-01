@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
- hp_characters ["Harry", "Hermione", "Ron", "Malfoy", "Dumbledore"]
+ hp_characters = ["Harry", "Hermione", "Ron", "Malfoy", "Dumbledore"]
  put hp_characters
 end
 
