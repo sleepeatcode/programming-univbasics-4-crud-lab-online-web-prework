@@ -25,9 +25,7 @@ end
 
 
 def remove_element_from_start_of_array(array)
-  hp_characters=["Harry","Hermione","Ron", "Malfoy"]
-  "wow" hp_characters.shift
-  p hp_characters
+
 end
 
 def retrieve_element_from_index(array, index_number)
