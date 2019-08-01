@@ -18,9 +18,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  hp_characters=["Harry","Hermione","Ron", "Malfoy"]
-  "arrays!" hp_characters.pop 
-  p hp_characters
+ 
 end
 
 
