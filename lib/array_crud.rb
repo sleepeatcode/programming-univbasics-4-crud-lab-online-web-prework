@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   [hp_characters ="Harry", "Hermione", "Ron", "Malfoy"]
   hp_characters << "Dumbledore"
-  puts hp_characters
+  p hp_characters
 end
 
 def add_element_to_start_of_array(array, element)
