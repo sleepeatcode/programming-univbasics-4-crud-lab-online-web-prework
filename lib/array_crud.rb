@@ -4,7 +4,7 @@ end
 
 def create_an_array
  hp_characters = ["Harry", "Hermione", "Ron", "Malfoy", "Dumbledore"]
- put hp_characters
+ puts hp_characters
 end
 
 def add_element_to_end_of_array(array, element)
