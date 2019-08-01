@@ -13,7 +13,8 @@ def add_element_to_end_of_array(hp_characters, dumbledore)
 end
 
 def add_element_to_start_of_array(array, element)
-  
+  hp_characters=["Harry","Hermione","Ron", "Malfoy"]
+  famous_cats.unshift (Malfoy)
 end
 
 def remove_element_from_end_of_array(array)
