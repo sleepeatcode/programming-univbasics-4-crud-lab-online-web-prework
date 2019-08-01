@@ -2,7 +2,7 @@ def create_an_empty_array
   []
 end
 
-def hp_characters
+def create_an_array
  hp_characters ["Harry","Hermione","Ron","Malfoy"]
  put hp_characters
 end
