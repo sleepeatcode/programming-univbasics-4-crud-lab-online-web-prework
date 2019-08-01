@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   hp_characters = ["Harry", "Hermione", "Ron", "Malfoy"]
-  hp_characters.push ("Dumbledore")
+  hp_characters << "Dumbledore"
 end
 
 def add_element_to_start_of_array(array, element)
@@ -18,6 +18,7 @@ end
 def remove_element_from_end_of_array(array)
   
 end
+
 
 def remove_element_from_start_of_array(array)
   
