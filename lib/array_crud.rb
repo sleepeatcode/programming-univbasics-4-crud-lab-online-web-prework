@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   hp_characters = ["Harry", "Hermione", "Ron", "Malfoy"]
-  hp_characters.push (Dumbledore)
+  hp_characters.push ("Dumbledore")
   p hp_characters
 end
 
