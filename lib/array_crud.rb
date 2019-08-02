@@ -19,7 +19,7 @@ end
 
 def remove_element_from_end_of_array(array)
  hp_characters=["wow","Harry","Hermione","Ron", "Malfoy","arrays!"]
- (arrays!)hp_characters.pop
+ [arrays!]hp_characters.pop
  p hp_characters
 end
 
